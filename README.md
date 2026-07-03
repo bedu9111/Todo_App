@@ -31,7 +31,7 @@ No external libraries or frameworks are used.
 
 ## 📸 Screenshot
 
-![Todo App Screenshot](screenshot.png)
+## Live : https://currency-converter-gray-one.vercel.app/
 
 
 
